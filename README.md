@@ -1,4 +1,4 @@
 # signInPage
-Odin Project Sign-In Web Page Design
+Odin Project Sign-Up Web Page Design
 
-Created for Odin Project Web Page Sign In
+Created for Odin Project Web Page Sign Up
